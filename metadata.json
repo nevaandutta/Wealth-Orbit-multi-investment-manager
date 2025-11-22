@@ -1,0 +1,5 @@
+{
+  "name": "WealthOrbit - Multi-Asset Investment Manager",
+  "description": "A comprehensive dashboard for managing client portfolios across mutual funds, stocks, and other assets, featuring an AI-powered analyst.",
+  "requestFramePermissions": []
+}
